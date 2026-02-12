@@ -571,9 +571,7 @@
             "items": {
               "type": "string"
             },
-            "example": [
-              "us-west-1"
-            ]
+            "example": "us-west-1"
           },
           "backend_parameters": {
             "type": "object",
